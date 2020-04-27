@@ -12,7 +12,7 @@ Use our dashboard to quickly get you up to speed on everything you need to know 
 Check how eco-friendly your city is and how much that may be having an impact in your life!
 
 #### 3.Alarming You
-Set alarms to be notified if anything hazrdous happens.
+Set alarms to be notified if anything hazardous happens.
 
 #### 4. Community Driven
 Help us figure out what's happening in your city by sharing data with us and everyone else!
