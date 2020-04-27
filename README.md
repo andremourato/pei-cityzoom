@@ -1,5 +1,8 @@
-# CityZoom
+<p align="center">
+  <img width="500"  src="https://user-images.githubusercontent.com/23279460/80327116-e92cef80-8832-11ea-95ca-8d06eec5225a.png">
+</p>
 
+## Introduction
 CityZoom is a platform that allows users to have access to the environmental aspects of a city. Information such as a city's temperature, humidity, air pressure and concentration of pollutant gases are available to the user.
 
 #### 1. Simple Monitoring
